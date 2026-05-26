@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Probashi Alap",
+  "description": "প্রবাসী আলাপ — বাংলাদেশ ও সৌদি আরব প্রবাসীদের জন্য সুরক্ষিত চ্যাট, ফাইল শেয়ার ও ভিডিও কল অ্যাপ। Optimized for speed, security, and low bandwidth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
